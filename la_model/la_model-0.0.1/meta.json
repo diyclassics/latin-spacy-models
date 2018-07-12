@@ -1,0 +1,20 @@
+{
+  "lang":"la",
+  "name":"model",
+  "version":"0.0.1",
+  "spacy_version":">=2.0.12.dev0",
+  "description":"Preliminary spaCy model for Latin based on word frequencies from the works of Cicero in the Classical Language Toolkit Latin Library corpus: https://github.com/cltk/latin_text_latin_library",
+  "author":"Patrick J. Burns",
+  "email":"patrick@diyclassics.org",
+  "url":"diyclassics.github.io",
+  "license":"MIT License",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null
+  },
+  "pipeline":[
+
+  ]
+}
