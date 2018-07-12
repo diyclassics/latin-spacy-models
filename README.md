@@ -4,6 +4,8 @@ version 0.0.1
 Preliminary spaCy model for Latin based on word frequencies from the works of Cicero in the Classical Language Toolkit Latin Library corpus: https://github.com/cltk/latin_text_latin_library.
 
 ## Installation with pip
+Download this folder into your virtual environment, site packages, etc. Unzip, if necessary, and...
+
 - pip install dist/la_model-0.0.1.tar.gz
 
 See https://spacy.io/usage/training for more information on working with this model.
