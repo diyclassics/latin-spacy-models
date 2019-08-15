@@ -6,7 +6,7 @@ Update of spaCy model for Latin based on Proiel Latin conll files (https://proie
 ## Installation with pip
 Download this folder into your virtual environment, site packages, etc. Unzip, if necessary, and...
 
-- pip install dist/la_model-0.1.0.tar.gz
+- pip install dist/la_latin_spacy_model-0.1.0.tar.gz
 
 See https://spacy.io/usage/training for more information on working with this model.
 
