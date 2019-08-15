@@ -1,0 +1,1 @@
+la_latin_spacy_model

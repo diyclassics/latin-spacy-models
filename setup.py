@@ -27,9 +27,11 @@ def list_files(data_dir):
 
 def list_requirements(meta):
     parent_package = meta.get('parent_package', 'spacy')
-    requirements = [parent_package + ">=" + meta['spacy_version']]
+    requirements = [parent_package + meta['spacy_version']]
     if 'setup_requires' in meta:
         requirements += meta['setup_requires']
+    if 'requirements' in meta:
+        requirements += meta['requirements']
     return requirements
 
 
