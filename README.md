@@ -14,7 +14,7 @@ See https://spacy.io/usage/training for more information on working with this mo
 
 ```
 import spacy
-nlp = spacy.load('la_model')
+nlp = spacy.load('la_latin_spacy_model')
 docs = nlp(u'arma virumque cano')
 for token in docs:
     print(token.text)
