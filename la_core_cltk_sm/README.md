@@ -10,6 +10,10 @@ Install the Latin language-specific spaCy module with:
 
 `python -m pip install git+https://github.com/diyclassics/spaCy.git@latin-dev#egg=spacy`
 
+Install this model by downloading the tar.gz file to your virtual environment, site packages, etc. and running:
+
+`python -m pip install la_core_cltk_sm-0.1.0.tar.gz`
+
 ### 🗂 Assets
 
 The following assets are defined by the project. They can
