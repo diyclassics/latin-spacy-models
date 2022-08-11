@@ -28,4 +28,23 @@ in the project directory.
 | `assets/UD_Latin-ITTB` | Git | [link](https://github.com/UniversalDependencies/UD_Latin-ITTB) |
 | `assets/UD_Latin-UDante` | Git | [link](https://github.com/UniversalDependencies/UD_Latin-UDante) |
 
+### 🎯 Accuracy
+
+| Type | Score |
+| --- | --- |
+| `SENTS_F` | 69.32 |
+| `SENTS_P` | 75.15 |
+| `SENTS_R` | 64.33 |
+| `TAG_ACC` | 82.30 |
+| `POS_ACC` | 95.97 |
+| `MORPH_ACC` | 84.60 |
+| `LEMMA_ACC` | 92.25 |
+| `DEP_UAS` | 77.78 |
+| `DEP_LAS` | 71.95 |
+| `TOK2VEC_LOSS` | 10806146.15 |
+| `TAGGER_LOSS` | 2737170.19 |
+| `MORPHOLOGIZER_LOSS` | 2782373.86 |
+| `TRAINABLE_LEMMATIZER_LOSS` | 1012842.41 |
+| `PARSER_LOSS` | 7525410.66 |
+
 <!-- SPACY PROJECT: AUTO-GENERATED DOCS END (do not remove) -->
