@@ -16,12 +16,12 @@ The following assets are defined by the project. They can
 be fetched by running [`spacy project assets`](https://spacy.io/api/cli#project-assets)
 in the project directory.
 
-| File | Source | Description |
+| File | Source | Link |
 | --- | --- | --- |
-| `assets/UD_Latin-PROIEL` | Git |  |
-| `assets/UD_Latin-LLCT` | Git |  |
-| `assets/UD_Latin-Perseus` | Git |  |
-| `assets/UD_Latin-ITTB` | Git |  |
-| `assets/UD_Latin-UDante` | Git |  |
+| `assets/UD_Latin-PROIEL` | Git | [link](https://github.com/UniversalDependencies/UD_Latin-PROIEL) |
+| `assets/UD_Latin-LLCT` | Git | [link](https://github.com/UniversalDependencies/UD_Latin-LLCT) |
+| `assets/UD_Latin-Perseus` | Git | [link](https://github.com/UniversalDependencies/UD_Latin-Perseus) |
+| `assets/UD_Latin-ITTB` | Git | [link](https://github.com/UniversalDependencies/UD_Latin-ITTB) |
+| `assets/UD_Latin-UDante` | Git | [link](https://github.com/UniversalDependencies/UD_Latin-UDante) |
 
 <!-- SPACY PROJECT: AUTO-GENERATED DOCS END (do not remove) -->
