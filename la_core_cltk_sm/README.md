@@ -12,7 +12,7 @@ Install the Latin language-specific spaCy module with:
 
 Install this model by downloading the tar.gz file to your virtual environment, site packages, etc. and running:
 
-`python -m pip install la_core_cltk_sm-0.1.0.tar.gz`
+`python -m pip install https://github.com/diyclassics/latin-spacy-models/blob/main/la_core_cltk_sm/la_core_cltk_sm-0.1.0.tar.gz\?raw\=true`
 
 ### 🗂 Assets
 
