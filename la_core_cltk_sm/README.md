@@ -8,7 +8,7 @@ Latin pipeline with POS tagger, morphologizer, lemmatizer, and dependency parser
 
 Install the Latin language-specific spaCy module with:
 
-`python -m pip install git+https://github.com/diyclassics/spaCy.git@latin-dev#egg=spacy`
+`python -m pip install git+https://github.com/explosion/spaCy.git#egg=spacy`
 
 Install this model by downloading the tar.gz file to your virtual environment, site packages, etc. and running:
 
