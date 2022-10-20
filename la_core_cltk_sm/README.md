@@ -6,13 +6,13 @@ Latin pipeline with POS tagger, morphologizer, lemmatizer, and dependency parser
 
 ### 📒 Notes
 
-Install the Latin language-specific spaCy module with:
+As of v.3.4.2 spaCy includes a Latin language class, so you can install with 
 
-`python -m pip install git+https://github.com/explosion/spaCy.git#egg=spacy`
+`pip install spacy==3.4.2`
 
 Install this model by downloading the tar.gz file to your virtual environment, site packages, etc. and running:
 
-`python -m pip install https://github.com/diyclassics/latin-spacy-models/blob/main/la_core_cltk_sm/la_core_cltk_sm-0.1.0.tar.gz\?raw\=true`
+`pip install https://github.com/diyclassics/latin-spacy-models/blob/main/la_core_cltk_sm/la_core_cltk_sm-0.1.0.tar.gz\?raw\=true`
 
 ### 🗂 Assets
 
